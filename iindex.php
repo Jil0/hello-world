@@ -78,7 +78,7 @@ try{
 			listPosts();
 		}
 }
-
+ 
 catch(Exception $e)
 {
 	echo 'Erreur : ' . $e->getMessage();
